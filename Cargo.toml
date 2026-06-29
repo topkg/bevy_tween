@@ -45,7 +45,7 @@ optional = true
 
 [dev-dependencies]
 bevy-inspector-egui = "0.32.0"
-rand = "0.9.1"
+rand = "0.9.3"
 
 [dev-dependencies.bevy]
 version = "0.16.1"
